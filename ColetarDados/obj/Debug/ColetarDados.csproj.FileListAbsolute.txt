@@ -1,0 +1,36 @@
+C:\Users\Takato\Desktop\Estudo\ColetarDados\ColetarDados\bin\Debug\ColetarDados.exe.config
+C:\Users\Takato\Desktop\Estudo\ColetarDados\ColetarDados\bin\Debug\ColetarDados.exe
+C:\Users\Takato\Desktop\Estudo\ColetarDados\ColetarDados\bin\Debug\ColetarDados.pdb
+C:\Users\Takato\Desktop\Estudo\ColetarDados\ColetarDados\obj\Debug\ColetarDados.csprojAssemblyReference.cache
+C:\Users\Takato\Desktop\Estudo\ColetarDados\ColetarDados\obj\Debug\ColetarDados.csproj.CoreCompileInputs.cache
+C:\Users\Takato\Desktop\Estudo\ColetarDados\ColetarDados\obj\Debug\ColetarDados.exe
+C:\Users\Takato\Desktop\Estudo\ColetarDados\ColetarDados\obj\Debug\ColetarDados.pdb
+C:\Users\Takato\Desktop\Estudo\ColetarDados\ColetarDados\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Takato\Desktop\Estudo\ColetarDados\ColetarDados\bin\Debug\RestSharp.dll
+C:\Users\Takato\Desktop\Estudo\ColetarDados\ColetarDados\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Takato\Desktop\Estudo\ColetarDados\ColetarDados\bin\Debug\RestSharp.xml
+C:\Users\Takato\Desktop\Estudo\ColetarDados\ColetarDados\obj\Debug\ColetarDados.csproj.CopyComplete
+C:\Users\Takato\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\obj\Debug\ColetarDados.csproj.AssemblyReference.cache
+C:\Users\Takato\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\obj\Debug\ColetarDados.csproj.CoreCompileInputs.cache
+C:\Users\Takato\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\obj\Debug\ColetarDados.exe
+C:\Users\Takato\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\obj\Debug\ColetarDados.pdb
+C:\Users\Takato\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\bin\Debug\ColetarDados.exe.config
+C:\Users\Takato\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\bin\Debug\ColetarDados.exe
+C:\Users\Takato\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\bin\Debug\ColetarDados.pdb
+C:\Users\Takato\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Takato\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\bin\Debug\RestSharp.dll
+C:\Users\Takato\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Takato\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\bin\Debug\RestSharp.xml
+C:\Users\Takato\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\obj\Debug\ColetarDados.csproj.CopyComplete
+C:\Users\Guilherme\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\bin\Debug\ColetarDados.exe.config
+C:\Users\Guilherme\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\bin\Debug\ColetarDados.exe
+C:\Users\Guilherme\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\bin\Debug\ColetarDados.pdb
+C:\Users\Guilherme\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guilherme\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\bin\Debug\RestSharp.dll
+C:\Users\Guilherme\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Guilherme\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\bin\Debug\RestSharp.xml
+C:\Users\Guilherme\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\obj\Debug\ColetarDados.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\obj\Debug\ColetarDados.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\obj\Debug\ColetarDados.csproj.CopyComplete
+C:\Users\Guilherme\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\obj\Debug\ColetarDados.exe
+C:\Users\Guilherme\Desktop\Projetim\Projeto poro\ColetarDados\ColetarDados\obj\Debug\ColetarDados.pdb
